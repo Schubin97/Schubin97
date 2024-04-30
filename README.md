@@ -9,6 +9,7 @@ Experience in:
 - Web-Scraping / APIs
 - Microservices (Docker, Kubernetes, Kafka)
 - Backend-Development
+- CI / CD (GitHub Actions, Kubernetes)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-schubin-b70a12275/) 
