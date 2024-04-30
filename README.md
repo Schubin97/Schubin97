@@ -1,6 +1,14 @@
 ### Hi there 👋# 💫 About Me:
 Hi, I'm Eugen a passionate data and machine learning engineer at @strivion.
 
+Experience in:
+- Data Base Management / Initialization
+- Various Machine Learning Models (CNN, SVM, LR, Naive, RF, Nearest Neighbour)
+- Feature Modeling (PCA, Vectorization)
+- Data Cleaning (Interpolation, Outlier Detection)
+- Web-Scraping / APIs
+- Microservices (Docker, Kubernetes, Kafka)
+- Backend-Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-schubin-b70a12275/) 
