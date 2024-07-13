@@ -1,5 +1,5 @@
 ### Hi there 👋# 💫 About Me:
-Hi, I'm Eugen a passionate data and machine learning engineer at @strivion.
+Hi, I'm Eugen a passionate data, devops and machine learning engineer at @WatchFindr.
 
 Experience in:
 - Data Base Management / Initialization
@@ -7,9 +7,10 @@ Experience in:
 - Feature Modeling (PCA, Vectorization)
 - Data Cleaning (Interpolation, Outlier Detection)
 - Web-Scraping / APIs
-- Microservices (Docker, Kubernetes, Kafka)
-- Backend-Development
-- CI / CD (GitHub Actions, Kubernetes)
+- Microservices (Docker, Kubernetes)
+- DevOps-Engineering
+- Python-Backend-Development
+- Data-Engineering
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugen-schubin-b70a12275/) 
